@@ -1,5 +1,9 @@
 # SBWYD (Stony Brook What You Doing?)
 
+🔗 **Links**
+- 🧠 **Devpost:** https://devpost.com/software/sbugo-mo
+- 🎥 **Demo Video:** https://youtu.be/o_77S5dNQo0?si=V_Islsbmf8zQni6h
+
 SBWYD is an AI-powered event discovery platform designed for Stony Brook University students. It aggregates campus events, processes them using natural language processing, and allows students to find events based on their personal interests (e.g., "I like coding and free food") rather than just keyword matching.
 
 The project features a **RAG (Retrieval-Augmented Generation)** pipeline to provide intelligent recommendations and integrates with **Google Calendar** to seamlessly add events to a student's schedule.
